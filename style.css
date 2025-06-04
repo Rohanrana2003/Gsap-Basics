@@ -9,13 +9,14 @@ html,
 body {
   height: 100%;
   width: 100%;
+  color: white;
 }
 
 body {
   background-color: #111;
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
 }
 
 #box1 {
